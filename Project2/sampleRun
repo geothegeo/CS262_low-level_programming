@@ -1,0 +1,204 @@
+./proj2
+1: Read a DNA sequence from a file
+2: Save the current sequence to a file
+3: Print the current sequence
+4: Splice and insert a sub-sequence
+5: Remove a sub-sequence
+6: Replace a sub-sequence with another sub-sequence
+7: Exit the program
+> 1
+Enter filename: chain1.dat
+1: Read a DNA sequence from a file
+2: Save the current sequence to a file
+3: Print the current sequence
+4: Splice and insert a sub-sequence
+5: Remove a sub-sequence
+6: Replace a sub-sequence with another sub-sequence
+7: Exit the program
+> 3
+Sequence:
+AGCTCCGTACAGTAGCGCCTTCTTATATGCGATTAATTCTAGACACAGTGACCAAGTCAACAGCACGCTTTGGCAGCAGCGCAAGGGTCCTGAGAA
+1: Read a DNA sequence from a file
+2: Save the current sequence to a file
+3: Print the current sequence
+4: Splice and insert a sub-sequence
+5: Remove a sub-sequence
+6: Replace a sub-sequence with another sub-sequence
+7: Exit the program
+> 5
+Enter the subsequence to delete: CTT
+1: Read a DNA sequence from a file
+2: Save the current sequence to a file
+3: Print the current sequence
+4: Splice and insert a sub-sequence
+5: Remove a sub-sequence
+6: Replace a sub-sequence with another sub-sequence
+7: Exit the program
+> 3
+Sequence:
+AGCTCCGTACAGTAGCGCATATGCGATTAATTCTAGACACAGTGACCAAGTCAACAGCACGTGGCAGCAGCGCAAGGGTCCTGAGAA
+1: Read a DNA sequence from a file
+2: Save the current sequence to a file
+3: Print the current sequence
+4: Splice and insert a sub-sequence
+5: Remove a sub-sequence
+6: Replace a sub-sequence with another sub-sequence
+7: Exit the program
+> 4
+Enter the sequence to insert: TATTAT
+Enter the sequence to insert after: AA
+1: Read a DNA sequence from a file
+2: Save the current sequence to a file
+3: Print the current sequence
+4: Splice and insert a sub-sequence
+5: Remove a sub-sequence
+6: Replace a sub-sequence with another sub-sequence
+7: Exit the program
+> 3
+Sequence:
+AGCTCCGTACAGTAGCGCATATGCGATTAATATTATTTCTAGACACAGTGACCAATATTATGTCAATATTATCAGCACGTGGCAGCAGCGCAATATTATGGGTCCTGAGAATATTAT
+1: Read a DNA sequence from a file
+2: Save the current sequence to a file
+3: Print the current sequence
+4: Splice and insert a sub-sequence
+5: Remove a sub-sequence
+6: Replace a sub-sequence with another sub-sequence
+7: Exit the program
+> 2
+Enter filename: chain3.dat
+1: Read a DNA sequence from a file
+2: Save the current sequence to a file
+3: Print the current sequence
+4: Splice and insert a sub-sequence
+5: Remove a sub-sequence
+6: Replace a sub-sequence with another sub-sequence
+7: Exit the program
+> 1
+Enter filename: chain2.dat
+1: Read a DNA sequence from a file
+2: Save the current sequence to a file
+3: Print the current sequence
+4: Splice and insert a sub-sequence
+5: Remove a sub-sequence
+6: Replace a sub-sequence with another sub-sequence
+7: Exit the program
+> 3
+Sequence:
+AATGGAATAAGTCTATTGTATTCCCAGTCAGGCTCAATCCTGCTTTACAACGCAACTAGACGGTGGGGTCTTA
+1: Read a DNA sequence from a file
+2: Save the current sequence to a file
+3: Print the current sequence
+4: Splice and insert a sub-sequence
+5: Remove a sub-sequence
+6: Replace a sub-sequence with another sub-sequence
+7: Exit the program
+> 6
+Enter the sequence to replace: AA
+Enter the sequence to insert: GG
+1: Read a DNA sequence from a file
+2: Save the current sequence to a file
+3: Print the current sequence
+4: Splice and insert a sub-sequence
+5: Remove a sub-sequence
+6: Replace a sub-sequence with another sub-sequence
+7: Exit the program
+> 3
+Sequence:
+GGTGGGGTGGGTCTATTGTATTCCCAGTCAGGCTCGGTCCTGCTTTACGGCGCGGCTAGACGGTGGGGTCTTA
+1: Read a DNA sequence from a file
+2: Save the current sequence to a file
+3: Print the current sequence
+4: Splice and insert a sub-sequence
+5: Remove a sub-sequence
+6: Replace a sub-sequence with another sub-sequence
+7: Exit the program
+> 6
+Enter the sequence to replace: G
+Enter the sequence to insert: C
+1: Read a DNA sequence from a file
+2: Save the current sequence to a file
+3: Print the current sequence
+4: Splice and insert a sub-sequence
+5: Remove a sub-sequence
+6: Replace a sub-sequence with another sub-sequence
+7: Exit the program
+> 3
+Sequence:
+CCTCCCCTCCCTCTATTCTATTCCCACTCACCCTCCCTCCTCCTTTACCCCCCCCCTACACCCTCCCCTCTTA
+1: Read a DNA sequence from a file
+2: Save the current sequence to a file
+3: Print the current sequence
+4: Splice and insert a sub-sequence
+5: Remove a sub-sequence
+6: Replace a sub-sequence with another sub-sequence
+7: Exit the program
+> 1
+Enter filename: dummyfile
+error opening input file dummyfile
+1: Read a DNA sequence from a file
+2: Save the current sequence to a file
+3: Print the current sequence
+4: Splice and insert a sub-sequence
+5: Remove a sub-sequence
+6: Replace a sub-sequence with another sub-sequence
+7: Exit the program
+> 1
+Enter filename: chain3.dat
+1: Read a DNA sequence from a file
+2: Save the current sequence to a file
+3: Print the current sequence
+4: Splice and insert a sub-sequence
+5: Remove a sub-sequence
+6: Replace a sub-sequence with another sub-sequence
+7: Exit the program
+> 3
+Sequence:
+AGCTCCGTACAGTAGCGCATATGCGATTAATATTATTTCTAGACACAGTGACCAATATTATGTCAATATTATCAGCACGTGGCAGCAGCGCAATATTATGGGTCCTGAGAATATTAT
+1: Read a DNA sequence from a file
+2: Save the current sequence to a file
+3: Print the current sequence
+4: Splice and insert a sub-sequence
+5: Remove a sub-sequence
+6: Replace a sub-sequence with another sub-sequence
+7: Exit the program
+> 5
+Enter the subsequence to delete: T
+1: Read a DNA sequence from a file
+2: Save the current sequence to a file
+3: Print the current sequence
+4: Splice and insert a sub-sequence
+5: Remove a sub-sequence
+6: Replace a sub-sequence with another sub-sequence
+7: Exit the program
+> 3
+Sequence:
+AGCCCGACAGAGCGCAAGCGAAAAACAGACACAGGACCAAAAGCAAAACAGCACGGGCAGCAGCGCAAAAGGGCCGAGAAAA
+1: Read a DNA sequence from a file
+2: Save the current sequence to a file
+3: Print the current sequence
+4: Splice and insert a sub-sequence
+5: Remove a sub-sequence
+6: Replace a sub-sequence with another sub-sequence
+7: Exit the program
+> 6
+Enter the sequence to replace: AAA
+Enter the sequence to insert: TCTCTCTAA
+1: Read a DNA sequence from a file
+2: Save the current sequence to a file
+3: Print the current sequence
+4: Splice and insert a sub-sequence
+5: Remove a sub-sequence
+6: Replace a sub-sequence with another sub-sequence
+7: Exit the program
+> 3
+Sequence:
+AGCCCGACAGAGCGCAAGCGTCTCTCTAAAACAGACACAGGACCTCTCTCTAAAGCTCTCTCTAAACAGCACGGGCAGCAGCGCTCTCTCTAAAGGGCCGAGTCTCTCTAAA
+1: Read a DNA sequence from a file
+2: Save the current sequence to a file
+3: Print the current sequence
+4: Splice and insert a sub-sequence
+5: Remove a sub-sequence
+6: Replace a sub-sequence with another sub-sequence
+7: Exit the program
+> 7
+Exiting on user request
